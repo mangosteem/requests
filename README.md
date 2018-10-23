@@ -30,9 +30,7 @@ u'{"type":"User"...'
 >>> r.json()
 {u'disk_usage': 368627, u'private_gists': 484, ...}
 ```
-
 See [the similar code, sans Requests](https://gist.github.com/973705).
-
 [![image](https://raw.githubusercontent.com/requests/requests/master/docs/_static/requests-logo-small.png)](http://docs.python-requests.org/)
 
 Requests allows you to send *organic, grass-fed* HTTP/1.1 requests,
